@@ -14,16 +14,6 @@
 
 ---
 
----
-
-<div align="center">
-
-💻 **Web Development**   •   🎨 **UI/UX Design**   •   🎬 **Video Editing**
-
-</div>
-
----
-
 ## 👋 About Me
 
 I’m **Asna Armeen Ayaz**, a creative developer who enjoys turning ideas into **modern websites, thoughtful interfaces, and engaging visual experiences**.

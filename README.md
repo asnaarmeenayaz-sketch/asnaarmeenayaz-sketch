@@ -1,12 +1,18 @@
 <div align="center">
 
-# ✦ Asna Armeen Ayaz
-
-### Web Developer · UI/UX Designer · Video Editor
-
-**Building digital experiences where code meets creativity.**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f5f1e9,100:c7a77a&height=220&section=header&text=ASNA%20ARMEEN%20AYAZ&fontSize=42&fontColor=171717&fontAlignY=40&desc=WEB%20DEVELOPER%20%20•%20%20UI%2FUX%20DESIGNER%20%20•%20%20VIDEO%20EDITOR&descSize=16&descAlignY=62&descColor=77716a" width="100%" />
 
 </div>
+
+---
+
+<div align="center">
+
+💻 **Web Development**   •   🎨 **UI/UX Design**   •   🎬 **Video Editing**
+
+</div>
+
+---
 
 ---
 
